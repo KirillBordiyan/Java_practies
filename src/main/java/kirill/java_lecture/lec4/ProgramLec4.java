@@ -26,7 +26,7 @@ LinkedList - двусвязный список
 */
 
 /*
-Queue - кью, работает по принципу FIFO
+Queue - кью, работает по принципу FIFO    !!!!!
 инициализация
 Queue<Integer> Qlist = new LinkedList<>();
 добавить - Qlist.add(1);
