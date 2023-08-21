@@ -1,7 +1,6 @@
-package kirill.program;
+package kirill.hackerrank;
 
 import java.util.*;
-import java.util.regex.Pattern;
 
 import static java.util.stream.Collectors.joining;
 

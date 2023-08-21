@@ -1,13 +1,12 @@
-package kirill.program;
+package kirill.hackerrank;
 
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+import java.awt.image.AreaAveragingScaleFilter;
+import java.util.*;
 
 public class HackerRankString {
     public static void main(String[] args) {
-        String s = "crackerhackerknar";
+        String s = "crackerhackerknarank";
         String result = Result2.hackerrankInString(s);
         System.out.println(result);
     }
